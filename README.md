@@ -1,4 +1,4 @@
-# Ki_bru
+# Kibru
 Hi 👋, Nice to see you !
 
 I’m currently, Masters degree in CSE | Data Science 
